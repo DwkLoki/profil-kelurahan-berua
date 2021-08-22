@@ -1,7 +1,9 @@
+import TopNavbar from "./components/header/TopNavbar";
+
 function App() {
   return (
     <div className="base App">
-      <h1>hello world</h1>
+      <TopNavbar />
     </div>
   );
 }
