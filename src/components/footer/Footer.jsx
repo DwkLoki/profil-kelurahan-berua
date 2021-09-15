@@ -4,7 +4,7 @@ import { HiOutlineMail, HiOutlineLocationMarker } from "react-icons/hi";
 
 const Footer = () => {
     return (
-        <div className='footer'>
+        <div className='footer py-5'>
             <div className="container">
                 <div className="row footer-content">
                     <div className="col-6 footer-left-side">
