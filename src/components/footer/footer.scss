@@ -1,0 +1,24 @@
+@import "../../assets/scss/variables";
+
+.footer {
+    background-color: $primaryColor;
+    color: white;
+
+    .footer-content {
+        margin: 0px 50px;
+        padding: 50px 0px;
+
+        .footer-left-side {
+            .kelurahan-info {
+                list-style-type: none;
+                padding-left: 0;
+
+                .kelurahan-info-list {
+                    margin: 15px 0px;
+                }
+            }
+        }
+
+        .footer-right-side {}
+    }
+}
