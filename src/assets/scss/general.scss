@@ -3,3 +3,14 @@
 .base {
     font-family: $primaryFont;
 }
+
+.f18 {
+    font-size: 18px;
+}
+
+.section-header {
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+}

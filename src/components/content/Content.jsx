@@ -1,6 +1,7 @@
 import "./content.scss";
 import kelurahanIcon from "../../assets/img/kelurahan-icon.svg";
 import strukturKel from "../../assets/img/struktur-organisasi.svg";
+import Infografis from "./Infografis";
 
 const Content = () => {
     return (
@@ -30,7 +31,7 @@ const Content = () => {
                 <div className="second-section-header">
                     <h1 className="section-header">sejarah</h1>
                 </div>
-                <div className="second-section-content f18">
+                <div className="second-section-content py-5 f18">
                     <p className="row" style={{textAlign: "justify"}} >
                         <div className="col-6">
                             Kelurahan Berua adalah salah satu kelurahan di Kecamatan Biringkanaya, Kota Makassar, Provinsi Sulawesi Selatan. 
@@ -55,9 +56,9 @@ const Content = () => {
                 <div className="third-section-header">
                     <h1 className="section-header">struktur pemerintahan kelurahan</h1>
                 </div>
-                <div className="third-section-content">
+                <div className="third-section-content py-5">
                     <div className="third-section-img d-flex justify-content-center">
-                        <img src={strukturKel} alt="Struktur organisasi kelurahan" style={{maxWidth: "85%"}}/>
+                        <img src={strukturKel} alt="Struktur organisasi kelurahan" style={{maxWidth: "100%"}}/>
                     </div>
                 </div>
             </div>
@@ -66,7 +67,7 @@ const Content = () => {
                 <div className="fourth-section-header">
                     <h1 className="section-header">visi & misi</h1>
                 </div>
-                <div className="fourth-section-content f18">
+                <div className="fourth-section-content py-5 f18">
                     <p style={{textAlign: "center"}} >
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
                         Sint dolores optio nisi iste iure rerum, architecto 
@@ -80,11 +81,22 @@ const Content = () => {
                 <div className="fifth-section-header">
                     <h1 className="section-header">infografis penduduk</h1>
                 </div>
+                <div className="fifth-section-content d-flex justify-content-center py-5">
+                    <Infografis />
+                </div>
             </div>
 
             <div className="sixth-section py-5">
                 <div className="sixth-section-header">
                     <h1 className="section-header">wilayah kelurahan berua</h1>
+                </div>
+                <div className="sixth-section-content py-5 f18">
+                    <p style={{textAlign: "center"}} >
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                        Sint dolores optio nisi iste iure rerum, architecto 
+                        voluptates nihil porro eligendi obcaecati mollitia labore hic. 
+                        Harum ea ab autem! Porro, odio.
+                    </p>
                 </div>
             </div>
         </div>

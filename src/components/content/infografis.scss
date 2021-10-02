@@ -1,0 +1,38 @@
+.infografis {
+    .row {
+        display: flex;
+        align-items: center;
+
+        .infografis-chart {
+            width: 300px;
+            padding: 0px;
+        }
+
+        .card-infografis {
+            box-shadow: 0px 0px 15px rgba(64, 109, 162, 0.2);
+            border-radius: 20px;
+            width: 400px;
+            height: 250px;
+            padding: 35px 38px;
+            text-align: left;
+
+            .card-infografis-heading {
+                font-size: 18px;
+                font-weight: 600;
+                margin-bottom: 8px;
+            }
+
+            .card-infografis-check {
+                list-style-type: none;
+                padding-left: 0px;
+                font-size: 16px;
+
+                .card-infografis-check-item {
+                    margin-right: 16px;
+                    margin-top: 7px;
+                    margin-bottom: 10px;
+                }
+            }
+        }
+    }
+}
