@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-4, .cls-5, .cls-6, .cls-8, .cls-9 {
+        fill: #fff;
+        stroke: #287ca1;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-16, .cls-4, .cls-5, .cls-6, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        font-size: 18px;
+        text-anchor: middle;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #287ca1;
+      }
+
+      .cls-15, .cls-2, .cls-3, .cls-7 {
+        font-family: Poppins;
+      }
+
+      .cls-15, .cls-2, .cls-7 {
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+      }
+
+      .cls-4 {
+        filter: url(#filter-2);
+      }
+
+      .cls-5 {
+        filter: url(#filter-3);
+      }
+
+      .cls-6 {
+        filter: url(#filter-4);
+      }
+
+      .cls-7 {
+        font-size: 30px;
+      }
+
+      .cls-8 {
+        filter: url(#filter-5);
+      }
+
+      .cls-9 {
+        filter: url(#filter-6);
+      }
+
+      .cls-10 {
+        filter: url(#filter-7);
+      }
+
+      .cls-11 {
+        filter: url(#filter-8);
+      }
+
+      .cls-12 {
+        filter: url(#filter-9);
+      }
+
+      .cls-13 {
+        filter: url(#filter-10);
+      }
+
+      .cls-14 {
+        filter: url(#filter-11);
+      }
+
+      .cls-15 {
+        font-size: 36px;
+      }
+
+      .cls-16 {
+        stroke: #000;
+        stroke-linecap: square;
+        stroke-width: 1px;
+      }
+    </style>
+    <filter id="filter" x="9" y="365" width="461" height="138" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="955" y="365" width="461" height="138" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="481" y="365" width="462" height="138" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="482" y="184" width="461" height="138" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="482" y="3" width="461" height="138" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="807" y="811" width="367" height="93" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="807" y="708" width="367" height="93" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="807" y="605" width="367" height="93" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="251" y="811" width="367" height="93" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="251" y="708" width="367" height="93" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-11" x="251" y="605" width="367" height="93" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.695" dy="3.939" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <g id="seksi_pertama" data-name="seksi pertama">
+      <g style="fill: #fff; filter: url(#filter)">
+        <path id="lurah" class="cls-1" d="M47,370.106H429a30,30,0,0,1,30,30v58a30,30,0,0,1-30,30H47a30,30,0,0,1-30-30v-58A30,30,0,0,1,47,370.106Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#lurah" style="stroke: #287ca1; filter: none; fill: none"/>
+      <text id="Seksi_Pemerintahan_Pengelolaan_Jaringan_dan_Pemberdayaan_RT_" data-name="Seksi Pemerintahan, Pengelolaan  Jaringan, dan Pemberdayaan RT/" class="cls-2" x="238.177" y="399.515">Seksi Pemerintahan, Pengelolaan <tspan x="238.177" dy="21.6">Jaringan, dan Pemberdayaan RT/RW</tspan></text>
+      <text id="Rosni" class="cls-3" x="206.241" y="464.888">Rosni</text>
+    </g>
+    <g id="seksi_ketiga" data-name="seksi ketiga">
+      <g style="fill: #fff; filter: url(#filter-2)">
+        <path id="lurah-2" data-name="lurah" class="cls-4" d="M993,370.106h382a30,30,0,0,1,30,30v58a30,30,0,0,1-30,30H993a30,30,0,0,1-30-30v-58A30,30,0,0,1,993,370.106Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#lurah-2" style="stroke: #287ca1; filter: none; fill: none"/>
+      <text id="Seksi_Pengelolaan_Kebersihan_dan_Pertamanan" data-name="Seksi Pengelolaan Kebersihan  dan Pertamanan" class="cls-2" x="1176" y="399.437">Seksi Pengelolaan Kebersihan <tspan x="1176" dy="21.6">dan Pertamanan</tspan></text>
+      <text id="_-" data-name="-" class="cls-3" transform="translate(1152.252 472.583) scale(5.137 1.819)">-</text>
+    </g>
+    <g id="seksi_dua" data-name="seksi dua">
+      <g style="fill: #fff; filter: url(#filter-3)">
+        <path id="lurah-3" data-name="lurah" class="cls-5" d="M519.812,370.106h382a30,30,0,0,1,30,30v58a30,30,0,0,1-30,30h-382a30,30,0,0,1-30-30v-58A30,30,0,0,1,519.812,370.106Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#lurah-3" style="stroke: #287ca1; filter: none; fill: none"/>
+      <text id="Seksi_Perekonomian_Pembangunan_Sosial_dan_Penerapan_Gerakan_" data-name="Seksi Perekonomian, Pembangunan, Sosial  dan Penerapan Gerakan " class="cls-2" x="712.996" y="399.515">Seksi Perekonomian, Pembangunan, Sosial <tspan x="712.996" dy="21.6">dan Penerapan Gerakan Sentuh Hati</tspan></text>
+      <text id="Dra._Nurhaedah" data-name="Dra. Nurhaedah" class="cls-3" x="616.059" y="464.888">Dra. Nurhaedah</text>
+    </g>
+    <g id="sekretaris">
+      <g style="fill: #fff; filter: url(#filter-4)">
+        <path id="lurah-4" data-name="lurah" class="cls-6" d="M520,189.106H902a30,30,0,0,1,30,30v58a30,30,0,0,1-30,30H520a30,30,0,0,1-30-30v-58A30,30,0,0,1,520,189.106Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#lurah-4" style="stroke: #287ca1; filter: none; fill: none"/>
+      <text id="Sekretaris-2" data-name="Sekretaris" class="cls-7" x="632.134" y="227.926">Sekretaris</text>
+      <text id="Hj._Sitti_Ramlah" data-name="Hj. Sitti Ramlah" class="cls-3" x="622.647" y="279.888">Hj. Sitti Ramlah</text>
+    </g>
+    <g id="lurah-5" data-name="lurah">
+      <g style="fill: #fff; filter: url(#filter-5)">
+        <path id="lurah-6" data-name="lurah" class="cls-8" d="M520,8.106H902a30,30,0,0,1,30,30v58a30,30,0,0,1-30,30H520a30,30,0,0,1-30-30v-58A30,30,0,0,1,520,8.106Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#lurah-6" style="stroke: #287ca1; filter: none; fill: none"/>
+      <text id="Lurah-7" data-name="Lurah" class="cls-7" x="667.038" y="46.926">Lurah</text>
+      <text id="Andi_Mansyur_S.Sos" data-name="Andi Mansyur, S.Sos" class="cls-3" x="593.551" y="98.888">Andi Mansyur, S.Sos</text>
+    </g>
+    <g id="staf">
+      <g id="_6" data-name="6">
+        <g style="fill: #fff; filter: url(#filter-6)">
+          <path id="lurah-8" data-name="lurah" class="cls-9" d="M845.25,816.766h287a30,30,0,0,1,30,30v13a30,30,0,0,1-30,30h-287a30,30,0,0,1-30-30v-13A30,30,0,0,1,845.25,816.766Z" style="stroke: inherit; filter: none; fill: inherit"/>
+        </g>
+        <use xlink:href="#lurah-8" style="stroke: #287ca1; filter: none; fill: none"/>
+        <text id="Faradila_Azizah_Nur" data-name="Faradila Azizah Nur" class="cls-3" x="872.364" y="860.109">Faradila Azizah Nur</text>
+      </g>
+      <g id="_5" data-name="5">
+        <g style="fill: #fff; filter: url(#filter-7)">
+          <path id="lurah-9" data-name="lurah" class="cls-10" d="M845.25,713.7h287a30,30,0,0,1,30,30v13a30,30,0,0,1-30,30h-287a30,30,0,0,1-30-30v-13A30,30,0,0,1,845.25,713.7Z" style="stroke: inherit; filter: none; fill: inherit"/>
+        </g>
+        <use xlink:href="#lurah-9" style="stroke: #287ca1; filter: none; fill: none"/>
+        <text id="Ira_Purwasari" data-name="Ira Purwasari" class="cls-3" x="907.376" y="757.047">Ira Purwasari</text>
+      </g>
+      <g id="_4" data-name="4">
+        <g style="fill: #fff; filter: url(#filter-8)">
+          <path id="lurah-10" data-name="lurah" class="cls-11" d="M845.25,610.3h287a30,30,0,0,1,30,30v13a30,30,0,0,1-30,30h-287a30,30,0,0,1-30-30v-13A30,30,0,0,1,845.25,610.3Z" style="stroke: inherit; filter: none; fill: inherit"/>
+        </g>
+        <use xlink:href="#lurah-10" style="stroke: #287ca1; filter: none; fill: none"/>
+        <text id="Adipura" class="cls-3" x="939.377" y="653.638">Adipura</text>
+      </g>
+      <g id="_3" data-name="3">
+        <g style="fill: #fff; filter: url(#filter-9)">
+          <path id="lurah-11" data-name="lurah" class="cls-12" d="M289.781,816.766h287a30,30,0,0,1,30,30v13a30,30,0,0,1-30,30h-287a30,30,0,0,1-30-30v-13A30,30,0,0,1,289.781,816.766Z" style="stroke: inherit; filter: none; fill: inherit"/>
+        </g>
+        <use xlink:href="#lurah-11" style="stroke: #287ca1; filter: none; fill: none"/>
+        <text id="Awal_Borahima" data-name="Awal Borahima" class="cls-3" x="337.908" y="860.109">Awal Borahima</text>
+      </g>
+      <g id="_2" data-name="2">
+        <g style="fill: #fff; filter: url(#filter-10)">
+          <path id="lurah-12" data-name="lurah" class="cls-13" d="M289.781,713.7h287a30,30,0,0,1,30,30v13a30,30,0,0,1-30,30h-287a30,30,0,0,1-30-30v-13A30,30,0,0,1,289.781,713.7Z" style="stroke: inherit; filter: none; fill: inherit"/>
+        </g>
+        <use xlink:href="#lurah-12" style="stroke: #287ca1; filter: none; fill: none"/>
+        <text id="Afdhalia_Alang._P" data-name="Afdhalia Alang. P" class="cls-3" x="326.907" y="757.047">Afdhalia Alang. P</text>
+      </g>
+      <g id="_1" data-name="1">
+        <g style="fill: #fff; filter: url(#filter-11)">
+          <path id="lurah-13" data-name="lurah" class="cls-14" d="M289.781,610.3h287a30,30,0,0,1,30,30v13a30,30,0,0,1-30,30h-287a30,30,0,0,1-30-30v-13A30,30,0,0,1,289.781,610.3Z" style="stroke: inherit; filter: none; fill: inherit"/>
+        </g>
+        <use xlink:href="#lurah-13" style="stroke: #287ca1; filter: none; fill: none"/>
+        <text id="Eka_Nurhidayanti_S.S" data-name="Eka Nurhidayanti, S.S" class="cls-3" x="309.908" y="653.638">Eka Nurhidayanti, S.S</text>
+      </g>
+      <text id="Staf-2" data-name="Staf" class="cls-15" x="673.292" y="555.232">Staf</text>
+      <path class="cls-16" d="M706,570.016h5v24h-5v-24Z"/>
+      <path class="cls-16" d="M983,588.987h5v21h-5v-21Z"/>
+      <path class="cls-16" d="M984,687.987h5v21h-5v-21Z"/>
+      <path class="cls-16" d="M984,789.987h5v21h-5v-21Z"/>
+      <path class="cls-16" d="M428,588.987h5v21h-5v-21Z"/>
+      <path class="cls-16" d="M428,687.987h5v21h-5v-21Z"/>
+      <path class="cls-16" d="M428,790.987h5v21h-5v-21Z"/>
+    </g>
+    <path class="cls-16" d="M708,133.106h5v49h-5v-49Z"/>
+    <path class="cls-16" d="M711,341.106v-5h468v5H711Z"/>
+    <path class="cls-16" d="M238,341.106v-5H706v5H238Z"/>
+    <path class="cls-16" d="M433,594v-5H706v5H433Z"/>
+    <path class="cls-16" d="M710,594v-5H983v5H710Z"/>
+    <path class="cls-16" d="M706,315h5v49h-5V315Z"/>
+    <path class="cls-16" d="M1179,336h5v33h-5V336Z"/>
+    <path class="cls-16" d="M233,336h5v33h-5V336Z"/>
+  </g>
+</svg>
