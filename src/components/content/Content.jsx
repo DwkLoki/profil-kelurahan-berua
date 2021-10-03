@@ -5,7 +5,6 @@ import rtIcon from "../../assets/img/icon-rt.svg";
 import rwIcon from "../../assets/img/icon-rw.svg";
 import distanceIcon from "../../assets/img/distance-icon.svg";
 import Infografis from "./Infografis";
-import { GiPathDistance } from "react-icons/gi";
 
 const Content = () => {
     return (
