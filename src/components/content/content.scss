@@ -4,7 +4,20 @@
     .first-section {}
     .second-section {}
     .third-section {}
-    .fourth-section {}
+    .fourth-section {
+        .fourth-section-content {
+            .fourth-section-content-number {
+                margin-top: 15px;
+                margin-bottom: 0px;
+                font-weight: 900;
+                font-size: 50px;
+            }
+            .fourth-section-content-string {
+                font-weight: 900;
+                margin: 10px 0px;
+            }
+        }
+    }
     .fifth-section {}
     .sixth-section {}
 }

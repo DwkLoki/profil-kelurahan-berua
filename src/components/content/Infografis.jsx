@@ -26,9 +26,9 @@ const Infografis = () => {
                     show: false
                 },
                 data: [
-                    {value: 835, name: 'Jumlah Penduduk'},
-                    {value: 484, name: 'Jumlah Perempuan'},
-                    {value: 670, name: 'Jumlah Laki - Laki'}
+                    {value: 27385, name: 'Jumlah Penduduk'},
+                    {value: 14040, name: 'Jumlah Perempuan'},
+                    {value: 13345, name: 'Jumlah Laki - Laki'}
                 ]
             }
         ]
@@ -66,6 +66,9 @@ const Infografis = () => {
                                 size='30px'
                                 /> 
                                     Jumlah Perempuan
+                            </li>
+                            <li>
+                                <p className='card-infografis-footer'>note: data update mei 2021</p>
                             </li>
                         </ul>
                     </div>
