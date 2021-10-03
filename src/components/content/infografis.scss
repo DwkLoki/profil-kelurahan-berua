@@ -26,8 +26,9 @@
                 font-size: 12px;
                 text-align: end;
                 margin: 0px;
-                padding-top: 10px;
+                padding-top: 2px;
                 font-weight: 900;
+                color: rgb(170, 170, 170);
             }
 
             .card-infografis-check {
@@ -40,6 +41,21 @@
                     margin-top: 7px;
                     margin-bottom: 10px;
                 }
+            }
+        }
+    }
+}
+
+
+// styling for responsive
+@media (max-width: 575px) {
+    .infografis {
+        .row {
+            display: flex;
+            justify-content: center;
+
+            .card-infografis {
+                width: 300px;
             }
         }
     }

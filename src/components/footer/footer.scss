@@ -19,3 +19,40 @@
         }
     }
 }
+
+
+// styling for responsive
+@media (max-width: 575px) {
+    .footer {
+        .footer-content {
+            margin: 0px 0px;
+            flex-direction: column-reverse;
+
+            .footer-right-side {
+                padding: 0px 20px;
+                
+                .footer-right-side-header {
+                    text-align: center;
+                }
+
+                .footer-right-side-content {
+                    text-align: justify;
+                    padding-bottom: 25px;
+                }
+            }
+
+            .footer-left-side {
+                padding: 0px 60px;
+
+                .kelurahan-info {
+                    .kelurahan-info-list {
+                        .kelurahan-info-list-street {
+                            width: 91%;
+                            text-align: justify;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

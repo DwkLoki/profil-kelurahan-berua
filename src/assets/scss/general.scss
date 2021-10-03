@@ -14,4 +14,18 @@
     justify-content: center;
     text-transform: capitalize;
     color: #287CA1;
+    text-align: center;
+}
+
+// styling for responsive
+
+@media (max-width: 575px) {
+    .header-for-section {
+        display: flex;
+        justify-content: center;
+        
+        .section-header {
+            max-width: 90%;
+        }
+    }
 }

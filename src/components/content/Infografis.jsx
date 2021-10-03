@@ -42,8 +42,8 @@ const Infografis = () => {
                         option={option} 
                     />
                 </div>
-                <div className="col-7">
-                    <div className="card-infografis">
+                <div className="card-infografis col-7">
+                    <div>
                         <p className='card-infografis-heading'>Keterangan</p>
                         <ul className='card-infografis-check'>
                             <li><IoIosPeople 

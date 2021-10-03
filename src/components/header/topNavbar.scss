@@ -51,6 +51,20 @@
 
 
 // styling for responsive
+// styling for responsive
+// styling for mobile
+
+@media (max-width: 320px) {
+    .navbar-toggler {
+        width: 40px;
+        padding: 4px 3px !important;
+
+        .navbar-toggler-icon {
+            width: 80%;
+        }
+    }
+}
+
 @media (max-width: 767px) {
     .btn-navbar {
         width: 60% !important;
